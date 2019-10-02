@@ -1,16 +1,25 @@
-Things to talk about
+Outline for 2019-10-02 PyMichana Talk
 
-- visualization
-http://scs.ryerson.ca/~aharley/vis/conv/
+- [cnn visualization](https://scs.ryerson.ca/~aharley/vis/conv/)
+   - machine learning: how do we use statistics (and software) to make a simple decision (simple output) based on a complex situation (complex input)
+      - detecting music genres (audio classification)
+      - placing images into categories (image classification)
+         - detecting cancer in body scans
+      - self-driving cars (reinforcement learning)
+   - learning uses a lot of data
+      - each eye is transmitting around [10 megabits per second](https://www.pennmedicine.org/news/news-releases/2006/july/penn-researchers-calculate-how)
+      - the imagenet dataset has over [14 million images](http://www.image-net.org/)
+      - typical "comfortable" use for a private dataset would be about 100,000 images
+      - you need lots of data to make your machine learning project successful
+   - deep learning: machine learning using an artifical neural network (ann) with many layers (usually processed on a GPU for massive paralellism)
 
-- machine learning: how do we use statistics to make a simple decision (simple output) based on a complex situation (complex input)
-   - self-driving cars
-   - detecting cancer in body scans
-   - classifying music
+- [dogs/cats python notebook](https://github.com/jeyoor/pymich-dl/blob/master/dogs_and_cats_functional.ipynb)
+   - talk about collaboratory
+   - show the Keras code setting up the neural network
+   - talk about using sklearn-metrics and confusion matrices for evaluation
 
-- deep learning: machine learning using an artifical neural network (ann) with many layers (usually processed on a GPU for massive paralellism)
-
-- The dogs/cats python notebook
+- [More details on Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
+   - [what's a convolution?](https://machinelearninguru.com/computer_vision/basics/convolution/image_convolution_1.html)
 
 WARNING: This has been the briefest overview. You need more depth to really grok this stuff.
 
