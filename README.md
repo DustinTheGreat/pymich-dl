@@ -1,5 +1,15 @@
 Outline for 2019-10-02 PyMichana Talk
 
+Followup:
+- ComputerVision Reneissance
+- Spotify Genres
+- Google Doodle: Music style transfer (Bach style)
+- Generative Adversarial Networks
+- Activation Functions Explanation
+- Mutual Information Research (open research)
+- WaveNet
+- PyTorch vs. Keras
+
 - [cnn visualization](https://scs.ryerson.ca/~aharley/vis/conv/)
    - machine learning: how do we use statistics (and software) to make a simple decision (simple output) based on a complex situation (complex input)
       - detecting music genres (audio classification)
@@ -28,3 +38,13 @@ See further:
 - [Standford Coursera Course on Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [3 Blue 1 Brown Youtube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/search?query=deep+learning)
 - [fast.ai](https://www.fast.ai/)
+-
+
+jey@mantleup.com
+github.com/jeyoor/pymich-dl
+
+Possible Future Meetup Topics
+
+- pygame
+- ChiPy or Indi Py
+- graphic novel/interactive fiction in python
