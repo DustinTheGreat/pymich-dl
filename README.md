@@ -7,6 +7,7 @@ Followup:
 - Spotify Genres
    - https://benanne.github.io/2014/08/05/spotify-cnns.html
    - https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation
+   - https://medium.com/s/story/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe
 - Google Doodle: Music style transfer (Bach style)
    - https://www.google.com/doodles/celebrating-johann-sebastian-bach
    - https://magenta.tensorflow.org/
@@ -14,6 +15,9 @@ Followup:
    - https://medium.com/sigmoid/a-brief-introduction-to-gans-and-how-to-code-them-2620ee465c30
    - https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0
    - https://machinelearningmastery.com/how-to-train-stable-generative-adversarial-networks/
+   - https://medium.com/neuronio/creating-pokemon-with-artificial-intelligence-d080fa89835b
+   - https://www.youtube.com/watch?v=yz6dNf7X7SA&t=4s
+
 - Activation Functions Explanation
    - https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/
    - http://robotics.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf
