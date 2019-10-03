@@ -28,6 +28,13 @@ Followup:
    - https://deepmind.com/blog/article/wavenet-generative-model-raw-audio
 - PyTorch and Keras Comparison
    - https://deepsense.ai/keras-vs-pytorch-avp-transfer-learning/
+- 3D Training Environments
+   - https://gym.openai.com/
+   - https://gym.openai.com/envs/Humanoid-v2
+   - https://github.com/deepmind/lab
+- Using Deep Learning for Text & Language (Text Transformers)
+   - https://openai.com/blog/better-language-models/
+   - https://jalammar.github.io/illustrated-gpt2/
 
 - [cnn visualization](https://scs.ryerson.ca/~aharley/vis/conv/)
    - machine learning: how do we use statistics (and software) to make a simple decision (simple output) based on a complex situation (complex input)
