@@ -1,14 +1,33 @@
-Outline for 2019-10-02 PyMichana Talk
+## Outline for 2019-10-02 PyMichana Talk
 
 Followup:
-- ComputerVision Reneissance
+- ComputerVision Renaissance
+   - https://www.embedded-vision.com/technology/computer-vision-algorithms
+   - https://www.udacity.com/course/introduction-to-computer-vision--ud810
 - Spotify Genres
+   - https://benanne.github.io/2014/08/05/spotify-cnns.html
+   - https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation
 - Google Doodle: Music style transfer (Bach style)
+   - https://www.google.com/doodles/celebrating-johann-sebastian-bach
+   - https://magenta.tensorflow.org/
 - Generative Adversarial Networks
+   - https://medium.com/sigmoid/a-brief-introduction-to-gans-and-how-to-code-them-2620ee465c30
+   - https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0
+   - https://machinelearningmastery.com/how-to-train-stable-generative-adversarial-networks/
 - Activation Functions Explanation
-- Mutual Information Research (open research)
+   - https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/
+   - http://robotics.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf
+   - https://arxiv.org/pdf/1710.05941v1.pdf
+- Information Theory for Deep Learning (startings of a theoretical framework)
+   - https://www.youtube.com/watch?v=XL07WEc2TRI
+   - https://lilianweng.github.io/lil-log/2017/09/28/anatomize-deep-learning-with-information-theory.html
+   - https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/
+   - http://naftali-tishby.mystrikingly.com/
 - WaveNet
-- PyTorch vs. Keras
+   - https://cloud.google.com/text-to-speech/docs/wavenet
+   - https://deepmind.com/blog/article/wavenet-generative-model-raw-audio
+- PyTorch and Keras Comparison
+   - https://deepsense.ai/keras-vs-pytorch-avp-transfer-learning/
 
 - [cnn visualization](https://scs.ryerson.ca/~aharley/vis/conv/)
    - machine learning: how do we use statistics (and software) to make a simple decision (simple output) based on a complex situation (complex input)
@@ -38,13 +57,15 @@ See further:
 - [Standford Coursera Course on Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [3 Blue 1 Brown Youtube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/search?query=deep+learning)
 - [fast.ai](https://www.fast.ai/)
--
+
+## Contact Info
 
 jey@mantleup.com
 github.com/jeyoor/pymich-dl
 
-Possible Future Meetup Topics
+## Possible Future Meetup Topics
 
 - pygame
 - ChiPy or Indi Py
 - graphic novel/interactive fiction in python
+- python for IoT (micropython)
